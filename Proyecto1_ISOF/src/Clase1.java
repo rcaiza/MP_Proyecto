@@ -8,6 +8,7 @@ public class Clase1
 	
 	public static void otroMetodo()
 	{
-		System.out.print("Otro metodo")
+		System.out.print("Otro metodo");
+		//Esto es nueva version
 	}
 }
